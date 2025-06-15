@@ -1,6 +1,6 @@
-diff -ura geary/src/client/folder-list/folder-list-tree.vala geary/src/client/folder-list/folder-list-tree.vala
---- geary/src/client/folder-list/folder-list-tree.vala	2025-06-15 10:53:03.204022864 +0100
-+++ geary/src/client/folder-list/folder-list-tree.vala	2025-06-15 11:05:40.720890763 +0100
+diff -ura /src/client/folder-list/folder-list-tree.vala /src/client/folder-list/folder-list-tree.vala
+--- /src/client/folder-list/folder-list-tree.vala	2025-06-15 10:53:03.204022864 +0100
++++ /src/client/folder-list/folder-list-tree.vala	2025-06-15 11:05:40.720890763 +0100
 @@ -49,8 +49,8 @@
      }
  
